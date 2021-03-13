@@ -23,6 +23,3 @@ function translatePigLatin(str) {
   }
 
 translatePigLatin("rhythm");
-// jeśli wyraz przed przeróbką zaczyna się samogłoską wówczas na końcu ma być 'way'
-// jeśli spółgłoską to 'ay'
-// let reg = /^(.?[B-DF-HJ-NP-TV-XZb-df-hj-np-tv-xz])/;
